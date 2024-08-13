@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AspectInjector/2.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard2.0/AspectInjector.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspectInjector/2.4.1": {
+      "sha512": "+HJ4mZiNiwPZXmbYiDd5yFwr1/7GHGgEPpGielkcC3m/cts9Obt7DSQ1NCbgW8nAaaTqckycUVh81aAL9fnFHA==",
+      "type": "package",
+      "path": "aspectinjector/2.4.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AspectInjector.Analyzer.dll",
+        "analyzers/dotnet/cs/AspectInjector.Broker.dll",
+        "analyzers/dotnet/cs/AspectInjector.Rules.dll",
+        "analyzers/dotnet/cs/FluentIL.Common.dll",
+        "aspectinjector.2.4.1.nupkg.sha512",
+        "aspectinjector.nuspec",
+        "build/_bin/AspectInjector.Broker.dll",
+        "build/_bin/AspectInjector.Core.Advice.dll",
+        "build/_bin/AspectInjector.Core.Mixin.dll",
+        "build/_bin/AspectInjector.Core.dll",
+        "build/_bin/AspectInjector.Rules.dll",
+        "build/_bin/AspectInjector.dll",
+        "build/_bin/AspectInjector.runtimeconfig.json",
+        "build/_bin/FluentIL.Common.dll",
+        "build/_bin/FluentIL.dll",
+        "build/_bin/Mono.Cecil.Mdb.dll",
+        "build/_bin/Mono.Cecil.Pdb.dll",
+        "build/_bin/Mono.Cecil.Rocks.dll",
+        "build/_bin/Mono.Cecil.dll",
+        "build/netstandard2.0/AspectInjector.targets",
+        "buildTransitive/netstandard2.0/AspectInjector.targets",
+        "lib/netstandard2.0/AspectInjector.Broker.dll",
+        "lib/netstandard2.0/AspectInjector.Broker.xml",
+        "package.png",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AspectInjector >= 2.4.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ayman\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\learning\\TestingTracingWithAOP\\TestingTracingWithAOP\\TestingTracingWithAOP.csproj",
+      "projectName": "TestingTracingWithAOP",
+      "projectPath": "C:\\dev\\learning\\TestingTracingWithAOP\\TestingTracingWithAOP\\TestingTracingWithAOP.csproj",
+      "packagesPath": "C:\\Users\\ayman\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\learning\\TestingTracingWithAOP\\TestingTracingWithAOP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ayman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "AspectInjector": {
+            "suppressParent": "None",
+            "target": "Package",
+            "version": "[2.4.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZAjUrk5imoXL+Y4LldG8eWtVf4G1Rb0UQ++VORexwCn9uu8OxUHZqNWgOUlfPHUiWmCd65FdkzDWmz8rxu3HA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\learning\\TestingTracingWithAOP\\TestingTracingWithAOP\\TestingTracingWithAOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayman\\.nuget\\packages\\aspectinjector\\2.4.1\\aspectinjector.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

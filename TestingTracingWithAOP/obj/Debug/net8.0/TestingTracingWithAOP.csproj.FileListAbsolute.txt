@@ -1,0 +1,17 @@
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\TestingTracingWithAOP.exe
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\TestingTracingWithAOP.deps.json
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\TestingTracingWithAOP.runtimeconfig.json
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\TestingTracingWithAOP.dll
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\TestingTracingWithAOP.pdb
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.csproj.AssemblyReference.cache
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.AssemblyInfoInputs.cache
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.AssemblyInfo.cs
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.csproj.CoreCompileInputs.cache
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.csproj.CopyComplete
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.dll
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\refint\TestingTracingWithAOP.dll
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.pdb
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\TestingTracingWithAOP.genruntimeconfig.cache
+C:\dev\learning\TestingTracingWithAOP\TestingTracingWithAOP\obj\Debug\net8.0\ref\TestingTracingWithAOP.dll

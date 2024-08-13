@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestingTracingWithAOP/1.0.0": {
+        "dependencies": {
+          "AspectInjector": "2.4.1"
+        },
+        "runtime": {
+          "TestingTracingWithAOP.dll": {}
+        }
+      },
+      "AspectInjector/2.4.1": {
+        "runtime": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestingTracingWithAOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspectInjector/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+HJ4mZiNiwPZXmbYiDd5yFwr1/7GHGgEPpGielkcC3m/cts9Obt7DSQ1NCbgW8nAaaTqckycUVh81aAL9fnFHA==",
+      "path": "aspectinjector/2.4.1",
+      "hashPath": "aspectinjector.2.4.1.nupkg.sha512"
+    }
+  }
+}
